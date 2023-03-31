@@ -1,0 +1,17 @@
+body{
+    background-color:black;
+    font-family: 'Playfair Display';
+    
+}
+aside{
+    width: 30%;
+    padding: 15px;
+    float: right;
+    font-style: italic;
+    font-weight: 700;
+    background-color: rgb(247, 3, 3);
+    color: rgb(254, 0, 0);
+}
+button{
+
+}
