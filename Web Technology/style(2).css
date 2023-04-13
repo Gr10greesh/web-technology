@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header nav ul{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left{
+max-width: 60%;
+
+}
+
+.left h3{
+    font-size: 20px;
+    color: rgb(247, 243, 243);
+    margin-bottom: 16px;
+}
+
+.left p{
+    font-size: 16px;
+}
+
+.right img{
+    width: 400px;
+}
